@@ -1,7 +1,7 @@
 # Informe Tarea N°1
 **Integrantes:**
 
-Christian Bonifaz, Mateo Calderon, Luis Eduardo, (Integrante 4)
+Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **NRC:** 5415
 
