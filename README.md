@@ -100,6 +100,235 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 47 lbf * 4,44822 N = 209.066 N
 
+**3) Establezca los factores de conversión, calcule lo siguiente y exprese la respuesta en las unidades que se indican.**
+
+**a) El área de una placa de 1.2 m por 70 cm en m^2.**
+
+70 cm =70*0.01=0.7m
+
+Area placa=Lado * Lado
+
+1.2* 0.7= 0.84m^2
+
+**b) El área de un triángulo con 25 cm de base, altura 0.5 m en m^2.**
+
+25 cm = 25 * 0.01=0.25 m
+
+área triángulo = (b* h)/2
+
+(0.25* 0.5)/2=0.0625 m^2
+
+**c) El volumen de una caja de 10 cm por 25 cm por 80 cm en m^3.**
+
+10 cm= 10*0.01=0.1 m
+
+25 cm= 25* 0.01=0.25 m
+
+80cm= 80*0.01=0.8 m
+
+V = 0.1x 0.25 * 0.8
+
+V=0.02 m^3
+
+**d) El volumen de una esfera de 10 pulgadas de radio en m^3.**
+
+10 in *2.54cm=25.4 cm
+
+25.4 cm * 0.01m= 0.254 m
+
+V=4/3r3
+
+V=4/3(0.254)^3
+
+V=0.06864 m^3
+
+**4) Un ventilador eléctrico gira a 300 revoluciones por minuto. ¿A cuánto equivale en grados por segundo?**
+
+1 rpm = 6 grados por s
+
+300 rpm * 6 grados por s = 1800 grados por s
+
+**5) Si la máquina robot de montaje superficial de la figura 1-3 coloca 15 partes cada 12 s, ¿cuál es su tasa de colocación por hora?**
+
+15* 5= 75 piezas por segundo
+
+12 * 5=60s
+
+75* 60=4500 piezas por hora
+
+**6) Si su impresora láser puede imprimir 8 paginas por minuto, ¿cuántas páginas puede imprimir en una décima de hora?**
+
+ 8 páginas = 1 min
+ 
+1 decima=60min / 10(décimas)= 6 min
+
+ 8 páginas = 1 min
+ 
+   x   =  6 min 
+
+x=8* 6=48 hojas
+
+**7) Un auto tiene un rendimiento de 27 millas por galón (E. U.). ¿Cuál es el rendimiento en kilómetros por litro?**
+
+1 milla por galón = 0,425144 km/litro
+
+27 millas por galón * 0,425144 km/litro = 11.479 km/litro
+
+**8) El radio ecuatorial de la Tierra es de 3963 millas. ¿Cuál es la circunferencia de la Tierra en kilómetros en el Ecuador?**
+
+1 milla = 1,60934 km
+
+3963 millas * 1.60934 km = 6377.815 km
+
+**9) Una rueda gira 18° en 0.02 s. ¿A cuántas revoluciones por minuto equivale esta cantidad?**
+
+1/0.02 = 50 veces en un segundo
+
+18 * 50 = 900 grados por segundo
+
+900 * 60 min = 54000 grados por minuto
+
+54000/360 = 150 revoluciones por minuto
+
+150 revoluciones por minuto
+
+**10) La altura de los caballos se mide en ocasiones en “palmos” donde 1 palmo = 4 pulgadas. ¿Cuántos metros de altura mide un caballo de 16 palmos?, ¿y en centímetros?**
+
+1 palmo = 4 pulgadas 
+
+16 palmos * 4 pulgadas = 64 pulgadas
+
+1 pulgada = 2.54 cm
+
+64 pulgadas* 2.54 cm = 162.56 cm
+
+**11) Se define la ecuación s=vt, donde s es la distancia recorrida, v es la velocidad y t es el tiempo. Si usted viaja a v= 60 mph por 500 segundos, obtiene y sustituye sin pensar s=  (60)(500) =30 000 millas. ¿Cuál es el error en este cálculo? ¿Cuál es la respuesta correcta?**
+
+500s=500/3600=0.13889h
+
+s=vt
+
+s=60 milla/h * 0.13889h
+
+s=8.3333 millas
+
+El error que se comete en este cálculo es que el tiempo se encuentra en segundos y para realizar lo debería estar en horas.
+
+*La respuesta es : s=8.3333 millas.* 
+
+**12) Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tiempo tardará en cortarla diagonalmente con un cortador de pizza que viaja a 0.12 m/s?**
+
+47 in = 47/39.37= 1.19380m
+
+t=1.19380/0.12
+
+t=9.9484s
+
+**13) A Joe S. se le pidió convertir 2000 yd/h en metros por segundo. Aquí está el trabajo de Joe: velocidad 2000 x 0.9144 x 60/60=1828.8 m/s. Determine los factores de conversión, escriba las unidades en la conversión y determine la respuesta correcta.**
+
+1 yd/h = 0,000254 m/s
+
+2000 yd/h * 0,000254 m/s = 0.508 m/s
+
+**14) La distancia media de la Tierra a la Luna es 238 857 millas, Las señales de radio viajan a 299 792 458 m/s. ¿Cuánto tiempo tardan las señales de radio en llegar a la Luna?**
+
+238857 millas= 238857* 1609=384320913 metros
+
+R=d/t
+
+299 792 458 m/s=384320913 m /t
+
+t=1.281957s
+
+**15) Si camina a una velocidad de 3 km/h por 8 minutos, 5 km/h por 1.25 h y luego continúa caminando a una velocidad de 4 km/h por 12 minutos, ¿qué distancia habrá caminado en total?**
+
+8 min = 8/60 = 0.13h
+
+12 min = 12/60 = 0.2h
+
+0.13h x 3 km/h = 0.39km
+
+0.2h x 4 km/h = 0.8km
+
+1.25h x 5 km/h = 6.25 km
+
+Distancia total = 0.39 + 0.8 + 6.25 = 7.44 km
+
+**16) Suponga que camina a una velocidad de 2 mph por 12 minutos, 4 mph por 0.75 h, luego termina de caminar a 5 mph por 15 minutos, ¿qué distancia habrá caminado en total?**
+
+12 min=12/60=0.2 h
+
+15 min= 15/60 = 0.25h
+
+
+
+0.2h * 2mi/h=0.4 mi
+
+0.75h* 4 mi/h= 3 mi
+
+0.25h* 5mi/h=1.25 mi
+
+
+Distancia total = 0.4+3+1.25=4.65 mi
+
+**17) Usted camina por 15 minutos a una velocidad de 2 km/h, luego 18 minutos a 5 km/h, y el resto del tiempo su velocidad es de 2.5 km/h. Si la distancia total que recorrió es de 2.85 km, ¿cuántos minutos caminó a 2.5 km/h?**
+
+15 min= 15/60=0.25h 
+
+18 min=18/60=0.3h
+
+2.85=(0.25)(2)+(0.3)(5)+(2.5)t3
+
+2.85=0.5+1.5+2.5t3
+
+2.5t3=2.85-2
+
+2.5km/h *t3=0.85km
+
+t3=0.34h
+
+**18) Usted camina por 16 minutos a una velocidad de 1.5 mph, acelera a 3.5 mph por un corto tiempo y disminuye a 3 mph para los últimos 12 minutos. Si la distancia total recorrida es de 1.7 millas, ¿cuánto tiempo caminó a 3.5 mph?**
+
+
+16 min=16/60=4/15h
+
+12min=12/60=0.2h
+
+
+1.5=(4/15)(1.5)+(0.2)(3)+(3.5)t2
+
+1.5=0.4+0.6+3.5t2
+
+3.5 mi/h* t2=0.5 mi
+
+t2=1/7 h
+
+t2=0.14286 h
+
+**19) Su jefe de planta le pide investigar dos máquinas. El costo de electricidad para la operación de la máquina # 1 es 43 centavos/minuto, mientras que para la máquina # 2 es de $200.00 por turno de 8 horas. El precio de compra, la capacidad de producción, los costos de mantenimiento y la confiabilidad a largo plazo de ambas máquinas son idénticos. Con base en esta información, ¿qué máquina debería comprar y por qué?**
+
+Máquina # 1
+
+43 ctvs * minuto
+
+1440 min = 1 día
+
+43* 1440 = 61920 ctvs
+
+61920/100 = 619.2 dólares por dia
+
+Máquina # 2
+
+200 por turno
+
+3 turnos = 24 horas
+
+200* 3=600 dolares por dia
+
+La opción 2 conviene puesto que cuesta menos y puede generar mayor ganancia.
+
+**20) Dado que 1 hp=550 ft-lb/s, 1 ft=0.3048 m, 1 lb=4.448 N, 1 J=1 N-m y 1 W=1 J/s, demuestre que 1 hp=746 W**.
+
 **CAPITULO 2 (Voltaje y corriente)**
 
 **1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?**
