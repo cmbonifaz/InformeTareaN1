@@ -865,6 +865,109 @@ V4 = -1.17 x 10^5 uV
 
 **b) Con una rapidez de 9.36 x 10^-19 electrones por segundo, ¿cuántos coulombs pasan por un punto de un alambre en 20 us?**
 
+**51) Una señal de radio viaja a 299 792.458 km/s y una señal telefónica a 150 m/s. Si ambas se originan en el mismo punto, ¿cuál llega primero a un destino alejado 5000 km? ¿Cuánto tiempo pasa entre la llegada de una y otra?**
+
+**52) En el capítulo 4 aprenderá que la potencia de cd está dada por el producto del voltaje y la corriente, esto es, P=V x  I watts.**
+
+**a) Si V = 50 V e I=24 mA(ambos valores exactos),¿cuánto vale P en watts?**
+
+I=24mA=24/1000=2.4x10^-2 A
+
+**P=V x I**
+
+P=50x2.4x10^-2 
+
+P=1.2 watts
+
+**b) Si el voltaje se mide con un voltímetro como V= 50.0+- 0.1 volts y la corriente se mide con un amperímetro como I=24.0+- 0.1 mA,¿qué concluye acerca de P con base en los valores medidos?**
+
+Se puede concluir que existe un porcentaje de error de +-  0.1 volts y de +-1x10^-4  A a lo cual para calcular se haría de la siguiente manera:
+
+I=24mA=24/1000=2.4x10^-2 +-1x10^-4A
+
+**P1=VxI**
+
+P1=(50+0.1)x(2.4x10^-2+1x10^-4)
+
+P1=1.2025 watts
+
+**P2=VxI**
+
+P2=(50-0.1)x(2.4x10^-2+1x10^-4)
+
+P2=1.1977  watts
+
+**P3=VxI**
+
+P3=(50-0.1)x(2.4x10^-2-1x10^-4)
+
+P3=1.1975  watts
+
+**P4=VxI**
+
+P4=(50+0.1)x(2.4x10^-2-1x10^-4)
+
+P4=1.2023 watts
+
+**53) En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir, R=V/ I ohms.**
+
+**a) Si V=50 V e I=24 mA (ambos valores exactos),¿cuánto vale R?**
+
+
+
+**b) Si el voltaje se mide como V = 50.0+- 0.1 volts y la corriente como I=24.0 +- 0.1 mA,¿qué concluye acerca de R con base en los valores medidos?**
+Se puede concluir que existe un porcentaje de error de +-  0.1 volts y de +-1x10^-4  A a lo cual para calcular se haría de la siguiente manera:
+
+
+**54) El componente soldado en el circuito impreso de la Figura 1-13(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8+-0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45 mm.Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación.**
+
+**55) Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.**
+
+**56) Elabore el diagrama esquemático para una simple linterna.**
+
+**57) Muchas revistas de electrónica y computación contienen anuncios de herramientas de software para computadora como el Pspice, Mathcad, Matlab y muchos otros. Consulte algunas de estas revistas en la biblioteca de su escuela. Al estudiar estos anuncios se logra obtener un conocimiento valioso acerca de lo que los paquetes de software modernos son capaces de hacer.**
+
+Existen múltiples programas para diseñar y experimentar circuitos electrónicos, algunos gratuitos, otros online y otros de pago.Diseñar y experimentar circuitos de manera física es un trabajo arduo y dificultoso pero con la ayuda de estos programas vamos a ser capaces de experimentar primero nuestros diseños antes de implementarlos para poder asegurarnos de que todo funciona como queremos evitando así cualquier tipo de fallo y sobre todo costos.
+
+En el mercado actual existe una gran variedad de programas que podemos usar como simuladores de paga y gratuitos:
+
+Simuladores gratuitos
+
+- KiCad
+
+Es una herramienta gratuita multiplataforma para la creación de diagramas electrónicos y diseños de PCB. Dispone de un gestor de proyectos, un editor de esquemas y componentes, selector de huellas, editor de placas de circuito, visor de archivos Gerber, creación de componentes o huellas a partir de imágenes bitmap, calculadora PCB y un editor de formatos de página.
+
+- ProfiCAD
+
+Es una herramienta gratuita multiplataforma para dibujar diagramas eléctricos y circuitos de control aunque también se puede utilizar para diagramas hidráulicos, neumáticos y otros tipos de diagramas técnicos. Su interfaz es muy sencilla e incluye muchísimos símbolos aunque permite también crear diseños propios (funcionalidad de pago). Admite la numeración automática de símbolos, listas de cables, de materiales y otras funcionalidades avanzadas.
+
+- TinyCAD
+
+Dispone de varias bibliotecas de símbolos y también permite crear listas de redes que pueden posteriormente utilizarse en programas de diseño de circuitos impresos como FreePCB.
+
+- Tinkerkad 
+
+Es una colección gratuita en línea de herramientas de software que ayudan a personas de todo el mundo a pensar, crear y hacer. Somos la introducción ideal a Autodesk , el líder en software de entretenimiento, ingeniería y diseño 3D.
+
+Simuladores de costo
+
+- Fritzing
+
+Hace accesible a todo el mundo la electrónica como material creativo para todos, puesto que dispone de una comunidad en la que se fomenta un ecosistema de creatividad.
+
+- AutoCAD Electrical 2020
+
+Está considerado como el mejor software para diseño de circuitos y es el mejor para todos los ingenieros electrónicos que buscan realizar sus diseños arquitectónicos.
+
+- SOLIDWORKS Electrical 2020
+
+Es muy bueno para colaboración, ya que dispone de herramientas integradas para facilitar. Es perfecto para el desarrollo de diseños complejos en poco tiempo y de gran calidad.
+
+Existe una gran variedad de programas sea para la pc o tener online que se puede usar para circuitos eléctricos, lo cual es muy beneficioso para los estudiantes que estamos aprendiendo.
+
+**Información obtenida:** 
+Velasco, R. (07 de Abril de 2021). Softzone. Obtenido de Softzone: https://www.softzone.es/programas/utilidades/simuladores-circuitos-electronicos/
+
 **CAPITULO 2 (Voltaje y corriente)**
 
 **1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?**
