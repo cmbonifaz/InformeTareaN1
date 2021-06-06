@@ -334,6 +334,200 @@ La opción 2 conviene puesto que cuesta menos y puede generar mayor ganancia.
 
 <img src="imagenes/ejer20.jpg">
 
+**21) Exprese cada unas de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:**
+
+**a) 8675**
+
+8.675 * 10^3
+
+**b) 0.00872**
+
+ 8.72 * 10^-3
+
+**c) 12.4 x 10^2**
+
+1.24 * 10^3
+
+**d) 37.2 x 10^-2**
+
+3.72 * 10^-1
+
+**e) 0.00348 x 10^5**
+
+3.48 * 10^2
+
+**f)0.000215 x 10^-3**
+
+2.15 * 10^-7
+
+**g)14.7 x 10^0**
+
+1.47 * 10^1
+
+**22)  Exprese las respuestas de cada unas de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:**
+
+**a) (17.6)(100)**
+
+1760
+
+1.76 * 10^3
+
+**b) (1400)(27 x 10^-3)**
+
+37.8
+
+3.78 * 10^1
+
+**c) (0.15 x 10^6)(14 x 10^-4)**
+
+210
+
+2.1 * 10^2
+
+**d) 1 x 10^-7x 10^-4 x 10.65**
+
+1.065 * 10^-10
+
+**e) (12.5)(1000)(0.01)**
+
+125
+
+1.25 * 10^2
+
+**f) (18.5x 10^0)(100)(1.5x10^-5)(0.001)**
+
+2.775 * 10^-5
+
+**23) Repita las instrucciones de la pregunta 22 para las siguientes cantidades.**
+
+**a)125/1000**
+
+1.25 * 10^-1
+
+**b)(8 * 10^4)/(0.001)**
+ 80 000000 
+8 * 10^7
+
+
+**c)(3 * 10^4)/(1.5 * 10^6)**
+
+3/15 * 10^4/10^6
+
+2 * 10^-2
+
+**d)[(16 * 10^-7)(21.8 * 10^6)]/[(14.2)(12 * 10^-5)]**
+
+43 60000/213
+
+2.04694835680751 * 10^4
+
+**24) Determine el resultado de las siguientes operaciones**
+
+**a) 123.7+0.05+1259x10^-3** 
+
+125.009
+
+**b) 72.3x10^-2+1x10^-3**
+
+0.724
+
+**c) 86.95x10^2-383**
+
+8309
+
+**d)452x10^-2+(697)(0.01)**
+
+11.49
+
+**25) Convierta las siguientes cantidades a notación de potencias de 10, y sin usar la calculadora determine las respuestas.**
+
+**a)(4x10^3)(0.05)^2**
+
+(4 * 10^3)(0.0025)
+
+(4 * 10^3)(2.5 * 10^3)
+
+(4 * 2.5)(10^3 * 10^3)
+
+10 * 10^6
+
+**b)(4x10^3)(-0.05)^2**
+
+(4 * 10^3)(0.0025)
+
+(4 * 10^3)(2.5 * 10^3)
+
+(4 * 2.5)(10^3x10^3)
+
+10 * 10^6
+
+**c)[(3 x 2 * 10) ^2] / [(2 x5 x 10^-1)]**
+
+<img src="imagenes/ejer25c.jpg">
+
+**d)[( 30+20)^-2(2 x 10^6 )(6000)]/[(1 x 10^3)(2 x 10^-1)^2]**
+
+
+<img src="imagenes/ejer25d.jpg">
+
+**e) [(-0.027)^1/3 (-0.2)^2]/[(23+1)^0 x 10^-3]**
+
+
+<img src="imagenes/ejer25e.jpg">
+
+**26) Para cada una de las siguientes cantidades convierta los números a notación de potencias de diez, después realice los cálculos que se indican. Redondee su respuesta a cuatro dígitos:
+**
+
+**a)(452)(6.73x10^4)**
+
+(4.52 x 10^2)(6.73 x 10^4)
+
+3.04196 x 10^7
+
+3.042 x 10^7
+
+**b)(0.00985)(4700)**
+
+(9.85x10^-3)(4.7x10^3)
+
+4.629x10^1
+
+**c)(0.0892)/(0.0000673)**
+
+<img src="imagenes/ejer26c.jpg">
+
+**d)12.40-236 x 10^-2**
+10.04
+
+1.004x10^1
+
+**e)(1.27)^3+47.9/(0.8)^2**
+
+76.892133
+
+7.6892133x10^1
+
+7.6892x10^1
+
+**f)(-643x10^-3)^3**
+
+-0.265847707
+
+-2.6585x10^-1
+
+**g)[ (0. 0025) ^1/2] * [1.6x10^4]]**
+
+(5x10^-2)x(1.6x10^4)
+
+8x10^2
+
+**h)[(-0.027)^1/3]/[1.5x10^-4]**
+
+<img src="imagenes/ejer26h.jpg">
+
+**i)[(3.5 x 10^4)^-2 (0.0045)^2(729)^1/3]/([(0.00872 * (47)^3)]-356)**
+
+<img src="imagenes/ejer26i.jpg">
 
 **CAPITULO 2 (Voltaje y corriente)**
 
