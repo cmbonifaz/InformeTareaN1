@@ -10,6 +10,9 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 **Tema:** Capitulo 1 (Introducción) y capitulo 2 (Voltaje y corriente) de Análisis de Circuitos - Robbins, Miller
 
 ### 1. OBJETIVOS
+
+- Conocer y analizar las ideas y conceptos basicos sobre los circuitos y sus componentes asi como tambien sobre el voltaje y la corriente
+
 ### 2. MARCO TEÓRICO
 
 **CAPITULO 1 (Introducción)**
