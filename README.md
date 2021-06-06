@@ -109,6 +109,47 @@ Significa que un cuerpo ha perdido o ganado electrones, En el caso de que un cue
 
 <img src="imagenes/f10.png">
 
+**15. A una placa de metal se le han adicionado 14,6* 10^13 electrones y posteriormente se le agrega una carga de 1,3 µC. Si la carga ﬁnal en la placa es de 5,6µC, ¿cuál fue la carga inicial?**
+
+<img src="imagenes/f11.png">
+
+**16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.**
+
+Porque al realizar eso hacemos fricción y mediante aquello generamos corriente electroestática
+
+**17. Si se requieren 360 Joules de energía para transferir 15 C de carga a través de la lámpara de la ﬁgura 2-1, ¿cuál es el voltaje de la batería?**
+
+<img src="imagenes/f12.png">
+
+**18. Si se requiere de 600 J de energía para mover 9.36* 10^19electrones de un punto a otro, ¿cuál es la diferencia de potencial entre los dos puntos?**
+
+<img src="imagenes/f13.png">
+
+**19. Si se requiere de 1.2 kJ de energía para mover 500 mC de un punto a otro, ¿cuál es el voltaje entre los dos puntos?**
+
+<img src="imagenes/f14.png">
+
+**20. ¿Cuánta energía se requiere para mover 20 mC de carga a través de la lámpara de la ﬁgura 2-23?**
+
+W=(20 * 10^(-3) C)(47,2V)=0,944J
+
+**21. ¿Cuánta energía adquiere una carga de 0,5µC conforme se mueve a través deuna diferencia de potencial de 8.5 kV?**
+
+W=(0,5 * 10^(-6) C)(8,5 * 10^3 V)=4,25mJ
+
+**22. Si el voltaje entre dos puntos es de 100 V, ¿cuánta energía se requiere para mover un electrón entre los dos puntos?**
+
+W=(1,6 * 10^(-19) C)(100V)=1,6*10^(-17) J
+
+**23. Dado un voltaje de 12 V para la batería de la ﬁgura 2-1, ¿cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?**
+
+<img src="imagenes/f15.png">
+
+**24. Para el circuito de la ﬁgura 2-1, si 27 C pasan a través de la lámpara en 9 segundos, ¿cuál es la corriente en amperes?**
+
+<img src="imagenes/f16.png">
+
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES 
 #### 6. BIBLIOGRAFÍA
