@@ -20,6 +20,42 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 **CAPITULO 1 (Introducción)**
 
+**1) Realice las siguientes conversiones:**
+
+**a) 27 minutos a segundos**
+
+1 min = 60 s
+
+27 min * 60s = 1620s
+
+**b) 0.8 horas a segundos**
+
+1 h = 3600s
+
+0.8h * 3600s = 2880s
+
+**c) 2 h 3 min 47 s a s**
+
+2h * 3600s = 7200s
+
+3 min * 60s = 180s
+
+7200s + 180s + 47s = 7427s
+
+**d) 35 caballos de potencia a watts**
+
+35 c.potencia * 735 = 25725 watts
+
+**e) 1827 W a hp**
+
+1827 W / 746 = 2.45 hp
+
+**f) 23 revoluciones a grados**
+
+1 rev = 360 grados
+
+23 rev * 360 grados = 8280 grados
+
 **CAPITULO 2 (Voltaje y corriente)**
 
 **1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?**
