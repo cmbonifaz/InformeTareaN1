@@ -260,7 +260,7 @@ Distancia total = 0.39 + 0.8 + 6.25 = 7.44 km
 
 15 min= 15/60 = 0.25h
 
-
+<img src="imagenes/fordis.jpg">
 
 0.2h * 2mi/h=0.4 mi
 
@@ -276,6 +276,8 @@ Distancia total = 0.4+3+1.25=4.65 mi
 15 min= 15/60=0.25h 
 
 18 min=18/60=0.3h
+
+<img src="imagenes/fordis.jpg">
 
 2.85=(0.25)(2)+(0.3)(5)+(2.5)t3
 
@@ -294,6 +296,7 @@ t3=0.34h
 
 12min=12/60=0.2h
 
+<img src="imagenes/fordis.jpg">
 
 1.5=(4/15)(1.5)+(0.2)(3)+(3.5)t2
 
