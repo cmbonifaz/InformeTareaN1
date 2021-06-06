@@ -583,6 +583,285 @@ Sería necesario usar la notación científica para no tener tantos decimales y 
 
 8.999 x10^-31 kg
 
+**31) Si 6.24 x 10^18 electrones pasan a través de un alambre en 1 s, ¿cuántos pasan a través de él durante un intervalo de 2 hr, 47 min y 10 s?**
+
+2 hr=2x3600=7200s
+
+47 min=47x60=2820s
+
+t2=7200+2820+10
+
+t2=1.003x10^4s
+
+**6.24 x 10^18 electrones = 1 s**
+
+**x electrones =1.003x10^4s**
+
+x electrones= 6.24 x 10^18x1.003x10^4
+
+x electrones= 6.25872x10^22
+
+En el intervalo de tiempo de  2 hr, 47 min y 10 s pasarían 6.25872x10^22 electrones.
+
+**32)Calcula la distancia en metros que viaja la luz en el vacío en 1.2 x 10^-8 segundos.**
+
+velocidad es constante
+
+V=3x10^5 km/s
+
+t = 1.2 x 10^-8 s
+
+x= distancia 
+
+**x=Vxt**
+
+x=6x10^5 km/s x 1.2x10^-8 s
+
+x= 3.6x10^-3 km
+
+**33)¿Cuánto tiempo tarda la luz en viajar 3.47 x 10^5 km en el vacío?**
+
+<img src="imagenes/ejer33.jpg" width= " 230">
+
+**34)¿Qué tan lejos viaja la luz en km en un año luz?**
+
+Un año luz equivale aproximadamente a 9 billones de kilómetros.
+
+Un año luz = 9x10^12 km
+
+**35) Al investigar un sitio para un proyecto hidroeléctrico se determina que el flujo de agua es de 3.73 x 10^4 m^3/s. ¿A cuánto equivale esta cantidad en litros/hora?**
+
+<img src="imagenes/ejer35.jpg" width= " 380" >
+
+**36) La fuerza gravitacional entre dos cuerpos es F = 6.6726x10^11 (m1m2/r^2)N,donde las masas m1 y m2 están en kilogramos y la distancia r entre los centros gravitacionales está en metros. Si el cuerpo 1 es una esfera con radio de 5000 millas y densidad de 25 kg/m^3, y el cuerpo 2 es una esfera de diámetro de 20 000 km y densidad de 12 kg/m^3. ¿Cuál es la fuerza gravitacional entre ellos?**
+
+<img src="imagenes/ejer36p1.jpg" >
+
+<img src="imagenes/ejer36p2.jpg" >
+
+<img src="imagenes/ejer36p3.jpg" >
+
+**37) ¿Cuál es el prefijo apropiado y su abreviatura para cada uno de los siguientes multiplicadores?**
+
+**a)1000**
+
+1x10^3 Kilo
+
+**b)1000000**
+
+1x10^6 Mega
+
+**c)10^9**
+
+100 000 0000 Giga
+
+**d)0.000001**
+
+1x 10^-6 micro
+
+**e)10^-3**
+
+0.001 mili
+
+**f)10^-12**
+
+ 0.000000000001 pico
+ 
+ **38) Exprese lo siguiente en términos de sus abreviaturas, es decir, microwatts como uW. Ponga atención en las mayúsculas (esto es, V no v, para volts).**
+ 
+ **a) miliamperes**
+ 
+ mA
+ 
+ **b) kilovolts**
+ 
+ kV
+ 
+ **c) megawatts**
+ 
+ MW
+ 
+ **d) microsegundos**
+ 
+ µs
+ 
+ **e) micrómetros**
+ 
+ µm
+ 
+ **f) milisegundos**
+ 
+ ms
+ 
+ **g) nanoamperes**
+ 
+ nA
+ 
+ **39)Exprese lo siguiente en la notación de ingeniería más práctica (esto es, 1270 µs=1.27 ms).**
+
+**a) 0.0015 s**
+
+1.5 ms
+
+**b) 0.000027s**
+
+27 µs
+
+**c) 0.00035 ms**
+ 
+ 0.35 µs
+ 
+ **40) Convierta lo siguiente:**
+ 
+ **a) 156 mV en volts**
+ 
+ 1mV = 0.001 V
+ 
+156x0.001= 0.156 V
+
+**b) 0.15mV a microvolts**
+
+1mV = 1000µV
+
+0.15x1000 = 150 µV 
+
+ **c) 47 kW a watts**
+ 
+ 1kW = 1000 watts
+ 
+47 x 1000 = 47000 watts
+
+ **d) 0.057 MW a kilowatts**
+ 
+ 1MW = 1000 kilowatts
+ 
+0.057 x 1000 = 57 kilowatts
+
+ **e) 3.5 x 104 volts a kilowatts**
+ 
+ 1 volt = 0.001 kilowatts
+ 
+34000 x 0.001 = 34 kilowatts
+
+ **f) 0.0000357 amperes a microamperes**
+ 
+ 1 amperio = 10 00000 microamperes
+ 
+0.0000357 x 10 00000 = 35.7 microamperes
+
+ **41)Determine los valores que se deben insertar en el espacio en blanco.**
+ 
+**a) 150 kV=..... x 10^3 V = ….. x 10^5 V**
+
+150 kV= 1 x 10^3 V = 1.5 x 10^5 V
+
+**b) 330 uW=..... x 10^-6 W= …. x 10^-4 W**
+
+330 uW=1x 10^-6 W=2.5 x 10^-4 W
+
+**42) Realice las operaciones y exprese las respuestas en las unidades que se indican.**
+
+**a) 700 uA - 0.4 mA        =....uA   ;  =....mA**
+
+700 uA - 400 uA
+
+300 uA
+
+0.7 mA - 0.4 mA
+
+0.3 mA
+
+**b) 600 MW + 300 x 10^4 W     =.... MW**
+
+600 MW + 3 MW
+
+603 MW
+
+**43) Realice las operaciones y exprese las respuestas en las unidades que se indican.**
+
+**a) 330 V+0.15 kV + 0.2 X 10^3 V   =.....V**
+
+330 V + 150 V + 200 V
+
+680 V
+
+**b) 60 W +100 W + 2700 mW   =......W**
+
+60 W + 100 W + 2.7 W 
+
+162.7 W
+
+**44) El voltaje de una línea de transmisión de alto voltaje es de 1.15 x 10^5 V.¿Cuál es el voltaje en kV?**
+
+1 V = 0.001 kV
+
+115000 x 0.001
+
+115 kV
+
+**45) Se compra un radiador eléctrico de 1500 W para calentar una habitación.¿Cuántos kW es esta cantidad?**
+
+1 W = 0.001 kW
+
+1500 x 0.001
+
+1.5 kW
+
+**46) Considere la figura 1-11. Como aprenderá en el capítulo 6, I4 = I1 + I2 + I3. Si I1=1.25 mA, I2=350 A e I3 =250 x 10^5 A, ¿cuánto vale I4?**
+
+<img src="imagenes/fig1_11.jpg">
+
+I1=0,00125 A
+
+I4 = I1 + I2 + I3
+
+I4= 0,00125 A + 350 A + 25 000000 A
+
+I4 = 25 000350 A
+
+**47)Para la figura 1-12, I1 +I2 -I3+ I4=0. Si I1 =12 A, I2 =0.150 kA e I4 =250 x 10^-1 A, ¿cuánto vale I3?**
+
+<img src="imagenes/fig1_12.jpg">
+
+I2 = 1.5 x 10^5 A
+
+I1 +I2 -I3+ I4=0
+
+I3 = I1 +I2+ I4
+
+I3 = 12 A + 150000 A + 25 A
+
+I3 = 150037 A
+
+**48) En cierto circuito electrónico, V1 =V2 - V3 -V4. Si V1= 120 mV, V2=5000 uV y V3=20 x  10^-4 V, ¿cuánto vale V4?**
+
+V1= 120 mV
+
+V1= 120000 uV
+
+V3= 20 x  10^-4 V
+
+V3= 2000 uV
+
+V1 =V2 - V3 - V4
+
+V4 = -V1+V2 - V3
+
+V4 = -120000 uV + 5000 uV - 2000 uV
+
+V4 = -117000 uV
+
+V4 = -1.17 x 10^5 uV
+
+**49) Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39 mmfd. Después de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. Consulte la tabla 1-6, ¿cuál será el valor equivalente a 39 “micromicrofarads”?**
+
+(39x10^-6)x10^-6
+
+3.9x10^-11 µµF
+
+**50) a) Si 0.045 coulomb de carga (pregunta 29) pasan a través de un alambre en 15 ms, ¿a cuántos electrones equivale esto?**
+
+**b) Con una rapidez de 9.36 x 10^-19 electrones por segundo, ¿cuántos coulombs pasan por un punto de un alambre en 20 us?**
 
 **CAPITULO 2 (Voltaje y corriente)**
 
