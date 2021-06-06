@@ -913,17 +913,39 @@ P4=1.2023 watts
 
 **a) Si V=50 V e I=24 mA (ambos valores exactos),¿cuánto vale R?**
 
-
+<img src="imagenes/ejer53_a.jpg">
 
 **b) Si el voltaje se mide como V = 50.0+- 0.1 volts y la corriente como I=24.0 +- 0.1 mA,¿qué concluye acerca de R con base en los valores medidos?**
 Se puede concluir que existe un porcentaje de error de +-  0.1 volts y de +-1x10^-4  A a lo cual para calcular se haría de la siguiente manera:
 
+<img src="imagenes/ejer53_b.jpg">
 
 **54) El componente soldado en el circuito impreso de la Figura 1-13(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8+-0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45 mm.Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación.**
 
+<img src="imagenes/fig1_13.jpg">
+
+
 **55) Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.**
 
+<img src="imagenes/fig1_14.jpg">
+
+Gráfico esquemático a mano
+
+<img src="imagenes/cir1_1.jpg">
+
+Gráfico esquemático a computadora
+
+<img src="imagenes/cir1_2.jpg">
+
 **56) Elabore el diagrama esquemático para una simple linterna.**
+
+Gráfico esquemático a mano
+
+<img src="imagenes/cir2_1.jpg">
+
+Gráfico esquemático a computadora
+
+<img src="imagenes/cir2_2.jpg">
 
 **57) Muchas revistas de electrónica y computación contienen anuncios de herramientas de software para computadora como el Pspice, Mathcad, Matlab y muchos otros. Consulte algunas de estas revistas en la biblioteca de su escuela. Al estudiar estos anuncios se logra obtener un conocimiento valioso acerca de lo que los paquetes de software modernos son capaces de hacer.**
 
