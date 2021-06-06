@@ -82,17 +82,17 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 18 galones * 3.785441 litros = 68.138 litros
 
-**e) 100 pies cuadrados a <img src="imagenes/m2.jpg" width="25">**
+**e) 100 pies cuadrados a m^2**
 
-1 pie cuadrado = 0.092903<img src="imagenes/m2.jpg" width="25">
+1 pie cuadrado = 0.092903 m^2
 
-100 pies cuadrados * 0.092903m2  = 9.2903<img src="imagenes/m2.jpg" width="25">
+100 pies cuadrados * 0.092903m^2  = 9.2903 m^2
 
-**f) 124 pulgadas cuadradas a <img src="imagenes/m2.jpg" width="25">**
+**f) 124 pulgadas cuadradas a m^2**
 
-1 pulgada cuadrada = 0,00064516<img src="imagenes/m2.jpg" width="25">
+1 pulgada cuadrada = 0,00064516 m^2
 
-124 pulgadas cuadradas * 0,00064516m2 = 0.08<img src="imagenes/m2.jpg" width="25">
+124 pulgadas cuadradas * 0,00064516 m^2= 0.08m^2
 
 **g) 47 libras fuerza a newtons**
 
