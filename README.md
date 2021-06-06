@@ -11,7 +11,11 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 1. OBJETIVOS
 
-- Conocer y analizar las ideas y conceptos basicos sobre los circuitos y sus componentes asi como tambien sobre el voltaje y la corriente
+- Conocer y analizar las ideas y conceptos básicos sobre los circuitos y sus componentes, así como también sobre el voltaje y la corriente que fluye dentro del mismo, y entendiendo la corriente como un movimiento de carga.
+
+-Comprender y conocer cómo se generan las fuentes de voltaje comunes y también como medirlas con su instrumento y su conexión adecuada.
+
+-Desarrollar por medio de ejercicios propuestos los conocimientos adquiridos en los capítulos previamente estudiados sobre el voltaje y corriente y su introducción al análisis de circuitos.
 
 ### 2. MARCO TEÓRICO
 
