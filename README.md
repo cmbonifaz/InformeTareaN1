@@ -332,6 +332,9 @@ La opción 2 conviene puesto que cuesta menos y puede generar mayor ganancia.
 
 **20) Dado que 1 hp=550 ft-lb/s, 1 ft=0.3048 m, 1 lb=4.448 N, 1 J=1 N-m y 1 W=1 J/s, demuestre que 1 hp=746 W**.
 
+<img src="imagenes/ejer20.jpg">
+
+
 **CAPITULO 2 (Voltaje y corriente)**
 
 **1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?**
