@@ -61,6 +61,29 @@ Porque el aluminio es mucho más fácil de manejar y es mas ligero que el cobre.
 
 **7.Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuándo es de atracción y cuándo de repulsión.**
 
+a. Una carga de +1µC y una carga de +7µC, separadas 10 mm
+
+<img src="imagenes/f1.png" weight="100">
+
+b. Q1=8µC y Q2=-4µC, separados por 12cm
+
+<img src="imagenes/f2.png" weight="100">
+
+c. Dos electrones separados 12* 10^(-8) m
+
+<img src="imagenes/f3.png" weight="100">
+
+d. Un electrón y un protón separados 5.3* 10^(-11) m
+
+<img src="imagenes/f4.png" weight="100">
+
+e. Un electrón y un neutrón separados 5.7* 10^(-11) m
+
+El neutrón no posee carga, por lo tanto, F= 0 
+
+**8. ¿Qué signiﬁcado tiene decir que un cuerpo está “cargado”?**
+
+Significa que un cuerpo ha perdido o ganado electrones, En el caso de que un cuerpo tenga más electrones que protones se dice que está cargado negativamente, y en el caso contrario el cuerpo de encuentra cargado positivamente.
 
 
 #### 4. VIDEO
