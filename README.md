@@ -475,8 +475,7 @@ La opción 2 conviene puesto que cuesta menos y puede generar mayor ganancia.
 
 <img src="imagenes/ejer25e.jpg">
 
-**26) Para cada una de las siguientes cantidades convierta los números a notación de potencias de diez, después realice los cálculos que se indican. Redondee su respuesta a cuatro dígitos:
-**
+**26) Para cada una de las siguientes cantidades convierta los números a notación de potencias de diez, después realice los cálculos que se indican. Redondee su respuesta a cuatro dígitos:**
 
 **a)(452)(6.73x10^4)**
 
