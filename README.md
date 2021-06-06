@@ -528,6 +528,62 @@ La opción 2 conviene puesto que cuesta menos y puede generar mayor ganancia.
 
 <img src="imagenes/ejer26i.jpg">
 
+**27) Realice lo siguiente**
+
+**a) Convierta los números a notación de potencias de diez, después realice los cálculos que se indican.**
+
+i) 111788 x10^-4
+
+ii) 4450 x10^-3
+
+**b)Realice la operación directamente en la calculadora sin conversión. ¿Cuál es su conclusión?**
+
+**i)842 x 0.0014**
+1.1788 
+
+No es necesario cambiar la cantidad a notación científica puesto que no existe un infinito de decimales como en otros ejemplos.
+
+**ii)(0.0352)/(0.00791)**
+
+4.450  
+
+Sería necesario usar la notación científica para no tener tantos decimales y con ello ser más exactos en algún cálculo
+
+**28) Exprese cada una de las siguientes cantidades en notación convencional:**
+
+**a)34.9 x 10^4**
+
+349000
+
+**b)15.1 x 10^0**
+
+15.1
+
+**c)234.6 x 10^-4**
+
+0.02346
+
+**d)6.97 x 10^-2**
+
+0.0697
+
+**e)45786.97 x 10^-1**
+
+4578.697
+
+**f)6.97 x 10^-5**
+
+0.0000697
+
+**29) Un coulomb (capítulo 2) es la cantidad de carga representada por 6 240 000 000 000 000 000 electrones. Exprese esta cantidad en notación de potencias de diez.**
+
+6.24x 10^16 electrones
+
+**30) La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 000 899 9 kg. Exprese esta cifra como una potencia de 10 con un dígito diferente de cero a la izquierda del punto decimal.**
+
+8.999 x10^-31 kg
+
+
 **CAPITULO 2 (Voltaje y corriente)**
 
 **1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?**
