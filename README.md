@@ -9,14 +9,14 @@ Christian Bonifaz, Mateo Calderon, Luis Eduardo, (Integrante 4)
 
 **Tema:** Capitulo 1 (Introducción) y capitulo 2 (Voltaje y corriente) de Análisis de Circuitos - Robbins, Miller
 
-#### 1. OBJETIVOS
-#### 2. MARCO TEÓRICO
+### 1. OBJETIVOS
+### 2. MARCO TEÓRICO
 
 **CAPITULO 1 (Introducción)**
 
 **CAPITULO 2 (Voltaje y corriente)**
 
-#### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 **CAPITULO 1 (Introducción)**
 
 **CAPITULO 2 (Voltaje y corriente)**
@@ -150,7 +150,7 @@ W=(1,6 * 10^(-19) C)(100V)=1,6*10^(-17) J
 <img src="imagenes/f16.png">
 
 
-#### 4. VIDEO
-#### 5. CONCLUSIONES 
-#### 6. BIBLIOGRAFÍA
+### 4. VIDEO
+### 5. CONCLUSIONES 
+### 6. BIBLIOGRAFÍA
 
