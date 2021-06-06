@@ -56,6 +56,50 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 23 rev * 360 grados = 8280 grados
 
+**2) Realice las siguientes conversiones:**
+
+**a) 27 pies a metros**
+
+1 pie = 0,3048 m
+
+27 pies * 0,3048 = 8,229 m
+
+**b) 2.3 yd a cm**
+
+1 yd = 91.44 cm
+
+2.3 yd * 91.44 cm = 210.312 cm
+
+**c) 36°F a °C**
+
+(n°F - 32) * 5/9 = °C
+
+(36°F - 32) * 5/9 = 2.222 °C
+
+**d)18 galones(E.U) a litros**
+
+1 galón = 3.78541 litros
+
+18 galones * 3.785441 litros = 68.138 litros
+
+**e) 100 pies cuadrados a m2**
+
+1 pie cuadrado = 0.092903m2
+
+100 pies cuadrados * 0.092903m2  = 9.2903m2
+
+**f) 124 pulgadas cuadradas a m2**
+
+1 pulgada cuadrada = 0,00064516m2
+
+124 pulgadas cuadradas * 0,00064516m2 = 0.08m2
+
+**g) 47 libras fuerza a newtons**
+
+1 lbf = 4,44822 N
+
+47 lbf * 4,44822 N = 209.066 N
+
 **CAPITULO 2 (Voltaje y corriente)**
 
 **1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?**
