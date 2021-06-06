@@ -15,6 +15,7 @@ Christian Bonifaz, Mateo Calderon, Luis Eduardo, (Integrante 4)
 **CAPITULO 1 (Introducción)**
 
 **CAPITULO 2 (Voltaje y corriente)**
+<img src="imagenes/resumen.png">
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 **CAPITULO 1 (Introducción)**
