@@ -855,6 +855,8 @@ V4 = -1.17 x 10^5 uV
 
 **49) Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39 mmfd. Después de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. Consulte la tabla 1-6, ¿cuál será el valor equivalente a 39 “micromicrofarads”?**
 
+<img src="imagenes/tabla1_6.jpg">
+
 (39x10^-6)x10^-6
 
 3.9x10^-11 µµF
