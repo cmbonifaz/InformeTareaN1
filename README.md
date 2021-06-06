@@ -63,19 +63,19 @@ Porque el aluminio es mucho más fácil de manejar y es mas ligero que el cobre.
 
 a. Una carga de +1µC y una carga de +7µC, separadas 10 mm
 
-<img src="imagenes/f1.png" weight="100">
+<img src="imagenes/f1.png">
 
 b. Q1=8µC y Q2=-4µC, separados por 12cm
 
-<img src="imagenes/f2.png" weight="100">
+<img src="imagenes/f2.png">
 
 c. Dos electrones separados 12* 10^(-8) m
 
-<img src="imagenes/f3.png" weight="100">
+<img src="imagenes/f3.png">
 
 d. Un electrón y un protón separados 5.3* 10^(-11) m
 
-<img src="imagenes/f4.png" weight="100">
+<img src="imagenes/f4.png">
 
 e. Un electrón y un neutrón separados 5.7* 10^(-11) m
 
@@ -85,6 +85,29 @@ El neutrón no posee carga, por lo tanto, F= 0
 
 Significa que un cuerpo ha perdido o ganado electrones, En el caso de que un cuerpo tenga más electrones que protones se dice que está cargado negativamente, y en el caso contrario el cuerpo de encuentra cargado positivamente.
 
+**9. La fuerza entre dos cargas, una positiva y una negativa, separadas 2 cm es de 180N. Si Q1=4µC. ¿Cuánto vale Q2? ¿la fuerza es de atracción o de repulsión?**
+
+<img src="imagenes/f5.png">
+
+**10. Si se pudiera colocar una carga de 1 C en cada uno de dos cuerpos que están separados 25 cm de centro a centro, ¿cuál sería la fuerza entre ellas en newtons?,¿y en toneladas?**
+
+<img src="imagenes/f6.png">
+
+**11. La fuerza de repulsión entre dos cargas separadas 50 cm es de 0.02 N. Si Q_2=5Q_1, determine las cargas y su posible signo.**
+
+<img src="imagenes/f7.png">
+
+**12. ¿Cuántos electrones representa una carga de 1,63µC?**
+
+<img src="imagenes/f8.png">
+
+**13. Determina la carga en 19 * 10^13 electrones**
+
+<img src="imagenes/f9.png">
+
+**14. Una placa de metal eléctricamente neutra adquiere una carga negativa de 47µC. ¿Cuántos electrones se le agregaron?**
+
+<img src="imagenes/f10.png">
 
 #### 4. VIDEO
 #### 5. CONCLUSIONES 
