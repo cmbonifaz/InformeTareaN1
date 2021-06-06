@@ -109,7 +109,7 @@ Significa que un cuerpo ha perdido o ganado electrones, En el caso de que un cue
 
 <img src="imagenes/f10.png">
 
-**15. A una placa de metal se le han adicionado 14,6* 10^13 electrones y posteriormente se le agrega una carga de 1,3 µC. Si la carga ﬁnal en la placa es de 5,6µC, ¿cuál fue la carga inicial?**
+**15. A una placa de metal se le han adicionado 14,6 * 10^13 electrones y posteriormente se le agrega una carga de 1,3 µC. Si la carga ﬁnal en la placa es de 5,6µC, ¿cuál fue la carga inicial?**
 
 <img src="imagenes/f11.png">
 
@@ -121,7 +121,7 @@ Porque al realizar eso hacemos fricción y mediante aquello generamos corriente 
 
 <img src="imagenes/f12.png">
 
-**18. Si se requiere de 600 J de energía para mover 9.36* 10^19electrones de un punto a otro, ¿cuál es la diferencia de potencial entre los dos puntos?**
+**18. Si se requiere de 600 J de energía para mover 9.36 * 10^19 electrones de un punto a otro, ¿cuál es la diferencia de potencial entre los dos puntos?**
 
 <img src="imagenes/f13.png">
 
