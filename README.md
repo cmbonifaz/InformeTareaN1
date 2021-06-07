@@ -1229,5 +1229,8 @@ Los fusibles tienen una clasificación de corriente para que podamos seleccionar
 [Problemas Capítulos 1 y 2 - Informe Tarea N°1](https://youtu.be/cWt2NzF-10U "Problemas Capítulos 1 y 2 - Informe Tarea N°1")
 
 ### 5. CONCLUSIONES 
+
+- Con este deber se pudo llegar a evidenciar con este tipo de ejercicios lo aprendido durante las clases, lo sorprendente es saber que mediante ejercicios un poco complicados se puede llegar a mejorar los conocimientos de circuitos electricos y nutrir la capacidad para resolver este tipo de ejercicios.
+
 ### 6. BIBLIOGRAFÍA
 
