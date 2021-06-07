@@ -20,6 +20,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ### 2. MARCO TEÓRICO
 
 **CAPITULO 1 (Introducción)**
+<img src="imagenes/Conceptos fundamentales de cd (4).png">
 
 **CAPITULO 2 (Voltaje y corriente)**
 <img src="imagenes/resumen.png">
