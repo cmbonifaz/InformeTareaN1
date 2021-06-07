@@ -1224,6 +1224,9 @@ El error es que el voltímetro está conectado en seria cuando debería estar en
 Los fusibles tienen una clasificación de corriente para que podamos seleccionar el tamaño adecuado para proteger un circuito contra sobrecorriente. también tienen una clasificación de voltaje porque el aislador del fusible está diseñado para soportar el voltaje deseado. si el voltaje a través del fusible excede este voltaje deseado, el aislante se dañará.
 
 ### 4. VIDEO
+
+[Problemas Capítulos 1 y 2 - Informe Tarea N°1](https://youtu.be/cWt2NzF-10U "Problemas Capítulos 1 y 2 - Informe Tarea N°1")
+
 ### 5. CONCLUSIONES 
 ### 6. BIBLIOGRAFÍA
 
