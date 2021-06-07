@@ -1128,7 +1128,8 @@ W=(1,6 * 10^(-19) C)(100V)=1,6*10^(-17) J
 <img src="imagenes/f16.png">
 
 **25. Si 250 uC pasan a través del amperímetro de la figura 2-32 en 5 ms, ¿cuál será la lectura del medidor?**
-<img src=”imágenes/Ejer-25.jpg”>
+
+<img src="imagenes/Ejer-25.jpg">
 
 ### 4. VIDEO
 ### 5. CONCLUSIONES 
