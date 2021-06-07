@@ -1131,6 +1131,98 @@ W=(1,6 * 10^(-19) C)(100V)=1,6*10^(-17) J
 
 <img src="imagenes/Ejer-25.jpg">
 
+**26. Si la corriente I=4 A en la figura 2-1, ¿cuántos coulombs pasan a través de la lámpara en 7 ms?**
+
+<img src="imagenes/Ejer-26.jpg">
+
+**27. ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20 ms?**
+
+<img src="imagenes/Ejer-27.jpg">
+
+**28. ¿Cuánto tiempo le toma a una carga de 100 uC pasar por un punto si la corriente es de 25 mA?**
+
+<img src="imagenes/Ejer-28.jpg">
+
+**29. Si 93.6 x 1012 electrones pasan a través de una lámpara en 5 ms, ¿cuál es la corriente?**
+
+<img src="imagenes/Ejer-29.jpg">
+
+**30. La carga que pasa a través de un alambre está dada por q=10t+4, donde q está en coulombs y t en segundos, a. ¿Cuánta carga ha pasado en t=5 s? b. ¿Cuánta carga ha pasado en t=8 s? c. ¿Cuál es la corriente en amperes?**
+
+<img src="imagenes/Ejer-30.jpg">
+
+**31. La carga que pasa a través de un alambre es q=(80t+20) C. ¿Cuál es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.**
+
+<img src="imagenes/Ejer-31.jpg">
+
+**32. ¿Cuánto tiempo le toma a 312x1019 electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8 A?**
+
+<img src="imagenes/Ejer-32.jpg">
+
+**33. Si se requieren 1 353.6 J para mover 47x1019 electrones a través de la lámpara de la figura 2-32 en 1.3 min, ¿cuánto valen E e I?**
+
+<img src="imagenes/Ejer-33.jpg">
+
+**34. ¿Qué se entiende por cd?, ¿y por ca?**
+
+Cd es aquella corriente que solo tiene una dirección.
+Ca es aquella corriente que cambia su dirección y su valor periódicamente.
+
+**35. Considere tres baterías conectadas como en la figura 2-33. a. Si E1=1.47 V, E2=1.61 V y E3=1.58 V, ¿cuánto vale ET? b. Si se invierte la conexión a la fuente 3, ¿cuánto vale ET?**
+
+<img src="imagenes/Ejer-35.jpg">
+
+**36. ¿Cómo se carga una batería secundaria? Haga un bosquejo. ¿Se puede cargar una batería primaria?**
+
+Podemos recargar una batería secundaria conectándola a una fuente de voltaje de CD que tenga un voltaje terminal mayor o igual al voltaje terminal deseado de la batería secundaria.
+
+**37. Una batería especificada en 1 400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?**
+
+<img src="imagenes/Ejer-37.jpg">
+
+**38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA? ¿Qué concluye de estos resultados?**
+
+Con 10mA su duración es de 525h, con 50mA su duración es de 125h y con 100mA su duración es de 57h.
+
+**39. La batería de la figura 2-15 está especificada en 81 Ah a 5°C. ¿Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5 A a -15°C?**
+
+<img src="imagenes/Ejer-39.jpg">
+
+**40. Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0.8 A?**
+
+<img src="imagenes/Ejer-40.jpg">
+
+**41. En el trabajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA, ¿cuál es el tiempo estimado (en horas) que será capaz de usar?**
+
+<img src="imagenes/Ejer-41.jpg">
+
+**42. El voltímetro digital de la figura 2-34 tiene la característica de autopolaridad. Para cada caso, determine su lectura.**
+
+a) 25V
+b) 25V
+c) 14V
+d) -6V
+
+**43. La corriente en el circuito de la figura 2-35 es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente? (a) El medidor 1, (b) el medidor 2, (c) ambos.**
+
+La respuesta correcta es c ambos.
+
+**44. ¿Cuál es el error en la afirmación de que el voltaje a través de la lámpara de la figura 2-24 es 70.3 V?**
+
+La afirmación de que el voltaje a través de la lámpara es de 70,3 V es incorrecta porque el voltaje no atraviesa nada; el voltaje es una diferencia de potencial y aparece a través de las cosas. Es por eso que conectamos un voltímetro a través de los componentes para medir su voltaje
+
+**45. ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36? Corríjalo.**
+
+El error es que el voltímetro está conectado en seria cuando debería estar en paralelo, y el amperímetro está conectado en paralelo cuando debería estar en serie.
+
+**46. Se Desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla 2-2. Dibuje el circuito requerido.**
+
+<img src="imagenes/Ejer-46.jpg">
+
+**47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especificación de voltaje. ¿Por qué? Sugerencia: lea la sección de aislantes, sección 2-1.**
+
+
+
 ### 4. VIDEO
 ### 5. CONCLUSIONES 
 ### 6. BIBLIOGRAFÍA
