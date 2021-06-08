@@ -26,7 +26,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 <img src="imagenes/resumen.png">
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-**CAPITULO 1 (Introducción)**
+
+### CAPITULO 1 (Introducción)
 
 **1) Realice las siguientes conversiones:**
 
@@ -1037,13 +1038,22 @@ Existe una gran variedad de programas sea para la pc o tener online que se puede
 **Información obtenida:** 
 Velasco, R. (07 de Abril de 2021). Softzone. Obtenido de Softzone: https://www.softzone.es/programas/utilidades/simuladores-circuitos-electronicos/
 
-**CAPITULO 2 (Voltaje y corriente)**
+#### CAPITULO 2 (Voltaje y corriente)
 
 **1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?**
 
 a. 1 metro cúbico de cobre =10^29
 
 b. Un alambre de cobre de 5 metros de longitud cuyo diámetro es 0.163 cm =10,4*10^23
+
+**2. Dos cargas están separadas por cierta distancia, como en la figura 2-31, como se ve afectada la fuerza entre ellas si:**
+a. se duplica la magnitud de ambas cargas?
+
+<img src="imagenes/f17.png">
+
+b. se triplica la distancia entre ellas?
+
+<img src="imagenes/f18.png">
 
 **3. Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ellas se reduce a la mitad, ¿cómo se ve afectada la fuerza?**
 
