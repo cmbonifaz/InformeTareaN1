@@ -1281,6 +1281,8 @@ Los fusibles tienen una clasificación de corriente para que podamos seleccionar
 
 - Con este deber se pudo llegar a evidenciar con este tipo de ejercicios lo aprendido durante las clases, lo sorprendente es saber que mediante ejercicios un poco complicados se puede llegar a mejorar los conocimientos de circuitos electricos y nutrir la capacidad para resolver este tipo de ejercicios.
 
+- Mediante el desarrollo de los ejercicios pudimos comprender más ampliamente los conceptos sobre voltaje y corriente, así como también todos los elementos asociados a ellos como el cálculo de los mismos, como se generan, cómo se miden y cómo se componen en un circuito. 
+
 ### 6. BIBLIOGRAFÍA
 
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
