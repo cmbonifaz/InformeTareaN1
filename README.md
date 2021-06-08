@@ -27,7 +27,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-### CAPITULO 1 (Introducción)
+#### CAPITULO 1 (Introducción)
 
 **1) Realice las siguientes conversiones:**
 
