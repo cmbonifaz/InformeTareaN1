@@ -871,9 +871,47 @@ V4 = -1.17 x 10^5 uV
 
 **50) a) Si 0.045 coulomb de carga (pregunta 29) pasan a través de un alambre en 15 ms, ¿a cuántos electrones equivale esto?**
 
+1 C = 6.24150975x10^18
+
+0.045 = x
+
+x= (6.24150975x10^18) x 0.045
+
+x= 2.80868 x 10^17 e
+
 **b) Con una rapidez de 9.36 x 10^-19 electrones por segundo, ¿cuántos coulombs pasan por un punto de un alambre en 20 us?**
 
+1e = 1.60217646⋅10^ -19 C
+
+9.36 x 10^-19  = x
+
+x= 1.49964 x 10^ -37 C
+
 **51) Una señal de radio viaja a 299 792.458 km/s y una señal telefónica a 150 m/s. Si ambas se originan en el mismo punto, ¿cuál llega primero a un destino alejado 5000 km? ¿Cuánto tiempo pasa entre la llegada de una y otra?**
+
+V= d/ t 
+
+V= d/ t1 
+
+299 792.458 km/s = 5000 km / t1
+
+t1 = 1.16667821 x 10^-2 s 
+
+150 m/s= 150/1000=0.15 km/s
+
+V= d/ t2 
+
+0.15 km/s = 5000km/ t2
+
+t2=3.333*10^3 s 
+
+Llegará primero la señal de radio al destino
+
+t2-t1= ( 3.333*10^3) - (1.16667821 x 10^-2)
+
+t2-t1= 3.333316 * 10^3 s
+
+el tiempo que pasa de la una a la otra es de :  3.333316 * 10^3 s
 
 **52) En el capítulo 4 aprenderá que la potencia de cd está dada por el producto del voltaje y la corriente, esto es, P=V x  I watts.**
 
@@ -924,6 +962,7 @@ P4=1.2023 watts
 <img src="imagenes/ejer53_a.jpg">
 
 **b) Si el voltaje se mide como V = 50.0+- 0.1 volts y la corriente como I=24.0 +- 0.1 mA,¿qué concluye acerca de R con base en los valores medidos?**
+
 Se puede concluir que existe un porcentaje de error de +-  0.1 volts y de +-1x10^-4  A a lo cual para calcular se haría de la siguiente manera:
 
 <img src="imagenes/ejer53_b.jpg">
