@@ -1287,3 +1287,6 @@ Los fusibles tienen una clasificación de corriente para que podamos seleccionar
 
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
 
+Velasco, R. (07 de Abril de 2021). Softzone. Obtenido de Softzone: https://www.softzone.es/programas/utilidades/simuladores-circuitos-electronicos/
+
+
