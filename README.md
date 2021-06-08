@@ -1273,3 +1273,5 @@ Los fusibles tienen una clasificación de corriente para que podamos seleccionar
 
 ### 6. BIBLIOGRAFÍA
 
+Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
+
